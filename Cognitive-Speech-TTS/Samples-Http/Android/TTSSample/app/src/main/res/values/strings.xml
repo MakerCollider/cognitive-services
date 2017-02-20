@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cognitive TTS Sample</string>
+
+    <string name="status">Status message</string>
+    <string name="hits">Input text to synthesize here</string>
+</resources>
